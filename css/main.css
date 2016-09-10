@@ -1,0 +1,156 @@
+/* Inserta tu codigo aqui 
+
+*/
+
+
+.ubicacion{
+	padding-bottom: 20px;
+	font-size:25px;
+}
+ 
+ .orden{
+ 	display: inline;
+ 	padding: 0px 50px;
+
+ }	
+
+.box-1{
+	background-image: url(../img/dance_1.jpg);
+	margin-top:100px;
+	height:420px;
+	background-size:cover;
+
+}
+.grande{
+	font-size:60px;
+	color:#c4c4c4;
+	padding: 70px 0 20px 0;
+}
+.text-1    {
+	font-size:13px;
+	color:#c4c4c4;
+	width:190px; 
+	line-height: 20px;
+}
+
+.boton-1{
+	background-color: #030e1f;
+	width:80px;
+	padding: 10px;
+	text-align: center;
+	margin-top: 20px;
+	border-radius: 5px;
+	font-size:13px;
+
+}
+div a{
+	color:#c4c4c4;
+
+}
+
+.box2{
+	background-image:url(../img/textura_2.jpg);
+	height:400px;
+}
+.text-2{
+	font-size: 25px;
+	width:730px;
+	margin:100px auto 0 auto;
+}
+
+.fotito-1{
+	width: 10%;
+}
+
+.boton-2{
+	background-color: #030e1f;
+	width:200px;
+	padding: 10px;
+	text-align: center;
+	margin: 0px auto ;
+	border-radius: 5px;
+}
+
+.img-1{
+	background-image: url(../img/instructor_4.jpg);
+	height:320px;
+	background-size:100%;
+	border:2px solid #030e1f;
+
+}
+
+.img-2{
+	background-image: url(../img/profesor_9.jpg);
+	height:320px;
+	background-size:100%;
+	border:2px solid #030e1f;
+
+}
+
+.boton-3{
+	background-color:#1a2952;
+	width:500px;
+	padding:25px;
+	text-align: center;
+	margin: 0px auto ;
+	border-radius:2px;
+	position:relative;
+	left:-50%;
+	top:77%;
+	font-size:20px; 
+}
+
+.text-3{
+	font-size:35px;
+	width: 800px;
+	margin:0 auto;
+	font-style:italic;
+	padding: 80px;
+}
+.box-3{
+	background-image:url(../img/textura_2.jpg);
+	height:250px;
+}
+
+.box-4{
+	background-color: #1a2952;
+}
+
+.text-4{
+ 	color:#c4c4c4;
+ 	font-size:13px;
+
+}
+.tamaño{
+	width:300px;
+	margin-top:70px;
+}
+
+.mapa{
+	width:500px;
+	height:300px;
+	margin:70px 0;
+
+}
+
+.visita{
+	font-size:20px;
+	padding:30px 0 10px 0;
+}
+
+.zapatilla{
+	background-image:url(../img/shoes_!.jpg);
+	height:450px;
+}
+
+.icono{
+
+	color:#000000; 
+	background-image: 
+	border:1px solid grey;
+	padding:10px;
+	width:300px;
+	display:block;
+	font-size:14px;
+}
+

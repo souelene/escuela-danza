@@ -1,3 +1,4 @@
+/*aqui comienza el header */
 .fixed{
 	position: fixed;
 	top:0px;
@@ -5,6 +6,19 @@
 	padding: 20px;
 }
 
+.ubicacion{
+	padding-bottom: 20px;
+	font-size:25px;
+}
+ 
+ .orden{
+ 	display: inline;
+ 	padding: 0px 50px;
+
+ }
+/*aqui termina el header*/
+
+/*aqui comienza el formulario*/
 form{
 	width:450px;
 	margin:auto;
@@ -23,8 +37,9 @@ input, textarea {
 	width: 100%;
 	border: 1px solid grey;
 	margin-bottom: 20px;
-	padding: 7px;
+	padding: 7px ;
 	box-sizing: border-box;
+	padding-left:35px;
 }
 
 textarea{
@@ -39,4 +54,58 @@ textarea{
 	border-radius: 5px;
 	padding: 15px;
 	font-size: 17px;
+}
+
+.zapatilla{
+	background-image:url(../img/shoes_!.jpg);
+	height:480px;
+}
+
+#nombre{
+	background-image: url(http://simpleicon.com/wp-content/uploads/user1.svg);
+	background-size: 30px;
+	background-position: 3px 2px;
+	background-repeat: no-repeat;
+}
+
+#email{
+	background-image: url(http://simpleicon.com/wp-content/uploads/mail_envalope.svg);
+	background-size: 30px;
+	background-position: 3px 2px;
+	background-repeat: no-repeat;
+
+}
+
+#lapiz{
+	background-image: url(http://simpleicon.com/wp-content/uploads/pen-3.svg);
+	background-size: 30px;
+	background-position: 3px 2px;
+	background-repeat: no-repeat;
+
+}
+
+/*aqui termina el formulario*/
+
+/*aqui comienza el footer*/
+.box-5{
+	background-color: #192951;
+	padding: 30px 0 10px 30px;
+	color:#c4c4c4;
+	font-size:13px;
+	box-sizing: border-box;
+}
+
+
+/*aqui termina el footer*/
+
+.azul{
+	color:#192951;
+}
+
+.text-3{
+	font-size:35px;
+	width: 800px;
+	margin:0 auto;
+	font-style:italic;
+	padding: 80px;
 }

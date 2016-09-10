@@ -1,1 +1,123 @@
-/* Inserta tu codigo aqui */
+.box-6{
+	background-image: url(../img/dance_7.jpg);
+	margin-top:109px;
+	height:420px;
+	background-size:140%;
+	background-position:left 40%;
+	box-sizing: border-box;
+}
+.transp{
+	width:500px;
+	height: 200px;
+	margin:110px auto 0 auto;
+	background-color: rgba(0,0,0,0.4);
+	padding: 20px;
+	box-sizing: border-box;
+
+}
+
+.transp h1{
+	font-size: 25px;
+	padding: 10px;
+	padding-top: 20px;
+}
+.transp p{
+	font-size: 15px;
+	padding: 10px;
+	padding-bottom: 20px;
+}
+
+.box-7{
+	background-image: url(../img/cubes.png);
+	height:350px;
+	
+}
+
+.margen{
+	padding: 70px 65px;
+	box-sizing: border-box;
+	font-size: 15px;
+}
+
+.margen h1{
+
+	font-size: 23px;
+	padding: 10px;
+	padding-bottom: 20px;
+	color: #9b9a9e;
+
+}
+
+.linea{
+	width: 100%;
+	height: 2px;
+	background: #9b9a9e;
+	margin-bottom: 30px;
+}
+.box-8{
+	padding: 70px 0;
+	font-size:30px;
+	text-align:center;
+
+}
+
+.caja{
+	box-sizing: border-box;
+	height: 330px;
+	width:240px;
+	margin:10px;
+		
+}
+
+.caja div{
+	width: 100%;
+	height: 183px;
+}
+	
+.bg-1{
+	background-image: url(../img/profesor_4.jpg);
+	background-size: 100%;
+}
+.bg-2{
+	background-image: url(../img/profesor_14.jpg);
+	background-size: 100%;
+}
+.bg-3{
+	background-image: url(../img/profesor_1.jpg);
+	background-size: 100%;
+}
+.bg-4{
+	background-image: url(../img/profesor_10.jpg);
+	background-size: 100%;
+}
+.bg-5{
+	background-image: url(../img/profesor_11.jpg);
+	background-size: 100%;
+}
+.bg-6{
+	background-image: url(../img/profesor_12.jpg);
+	background-size: 100%;
+}
+.bg-7{
+	background-image: url(../img/profesor_9.jpg);
+	background-size: 100%;
+}
+.bg-8{
+	background-image: url(../img/profesor_15.jpg);
+	background-size: 100%;
+}
+
+
+.caja h1{
+	padding-top: 10px;
+	padding-bottom:10px;
+}
+
+.caja p{
+	font-size: 15px;
+}
+
+.box-9{
+	background-image: url(../img/cubes.png);
+	height:250px;
+}

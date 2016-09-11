@@ -60,13 +60,15 @@
 	text-align:center;
 
 }
-
+.largo{
+	margin-bottom:50px;
+}
 .caja{
 	box-sizing: border-box;
-	height: 330px;
+	height: 290px;
 	width:240px;
 	margin:10px;
-		
+	margin:30px 10px;		
 }
 
 .caja div{
